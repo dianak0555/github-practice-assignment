@@ -1,2 +1,2 @@
-# github-practice-assignment
+# I hope to be able to be more proficient with R programming, including data analysis and visualization. I also hope to be more proficient with using Github. Reproducibility is most important to me because it helps me as a student/researcher to have more confidence in using other studies. In addition, as a future doctor, reproducibility would be especially important in medical research to make sure the medical tools are used with confidence and safety.
 
