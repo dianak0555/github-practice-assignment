@@ -19,3 +19,8 @@ knitr::opts_chunk$set(echo = TRUE)
 2**2
 ```
 #This mathematical operation gives the result of squaring 2.
+
+```{r}
+5*(2**7)
+```
+#This is the last mathematical operation that gives the result of multiplying 5 to 2 raised to 7th power.
