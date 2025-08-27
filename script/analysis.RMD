@@ -13,3 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 1+1
 ```
+#This mathematical operation gives the result of adding 1 to 1
