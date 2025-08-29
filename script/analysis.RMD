@@ -24,3 +24,5 @@ knitr::opts_chunk$set(echo = TRUE)
 5*(2**7)
 ```
 #This is the last mathematical operation that gives the result of multiplying 5 to 2 raised to 7th power.
+#It can also be written as 5 x (2^7)
+#The expression evaluates to 640
